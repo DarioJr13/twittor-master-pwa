@@ -11,7 +11,7 @@ if ( navigator.serviceWorker ) {
     }
 
 
-    navigator.serviceWorker.register( url );
+    navigator.serviceWorker.register( swLocation );
 }
 
 
